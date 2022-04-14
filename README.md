@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hafizmfadli
 - 👀 I’m interested in Microservices
-- 🌱 I’m currently learning PERN stack (PostgreSQL, Express, React, Node)
+- 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on microservices project 
 - 📫 How to reach me : https://www.instagram.com/hafizmfadli/
 
