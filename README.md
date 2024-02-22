@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @hafizmfadli
 - 👀 I’m interested in Microservices
-- 🌱 I’m currently learning GO
-- 💞️ I’m looking to collaborate on microservices project 
-- 📫 How to reach me : https://www.instagram.com/hafizmfadli/
+- 🌱 I love golang
 
 <!---
 hafizmfadli/hafizmfadli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
